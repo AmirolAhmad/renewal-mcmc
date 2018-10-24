@@ -18,4 +18,5 @@ Rails.application.routes.draw do
   end
 
   root 'pages#index'
+  resource :profiles, only: [:show, :edit, :update]
 end
