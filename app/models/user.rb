@@ -6,6 +6,10 @@ class User < ApplicationRecord
 
  attr_writer :login
 
+ has_one :profile, dependent: :destroy
+
+ before_create :build_default_profile
+
  validates :ic_number, presence: :true, uniqueness: { case_sensitive: false }
  validate :validate_ic_number
 
@@ -31,4 +35,11 @@ class User < ApplicationRecord
       errors.add(:ic_number, :invalid)
     end
   end
+
+  private
+
+    def build_default_profile
+      build_profile
+      true
+    end
 end
