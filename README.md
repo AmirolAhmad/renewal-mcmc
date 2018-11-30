@@ -18,11 +18,8 @@
 ### Why can’t a see the licenses I want to renew in step 3?
 There are a few possibilities:
 
-- Licenses cannot be renewed earlier than 90 days before the expiration date.
-- Licenses past the expiration date are placed in an “ineligible” list for a period of time. In step 3 above, click the button “Ineligible.” If the licenses appear, you can file a renewal application. However, you must also include a waiver request along with a justification for filing the renewal application late.
-- If you previously started to file a renewal application and did not complete the filing, it could be in a list of Saved Applications.
-How do I know if my application is received at the FCC?
-Applications will appear either the next business day in MHRS Application Search or two businesses days later for applications filed on a weekend or federal holiday. Enter the file number in the MHRS Application Search to find your application.
+- Licenses cannot be renewed earlier than 60 days before the expiration date.
+- Licenses past the expiration date are placed in an “ineligible” list for a period of time. In step 3 above, click the button “Ineligible.” If the licenses appear, you can file a renewal application. However, you must also upload certain documents similar when you apply a new callsign.
 
-### When will my license be renewed?
-It depends on the type of license. Some renewal applications are processed within the next business day. Other renewal applications require a Public Notice period prior to processing the application.
+### How do I know if my application is received at the MHRS?
+Applications will appear either the next business day in MHRS Application Search or two businesses days later for applications filed on a weekend or federal holiday. Enter the file number in the MHRS Application Search to find your application.
